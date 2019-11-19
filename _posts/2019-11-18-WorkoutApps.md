@@ -15,7 +15,6 @@ Looking into the following apps:
 - BodBot
 - AsanaRebel
 - Volt
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now)
 
 What I want to look into and how do I am scouting the apps?
 - signing up

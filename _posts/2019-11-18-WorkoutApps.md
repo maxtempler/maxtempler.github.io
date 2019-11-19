@@ -7,14 +7,15 @@ Here I am trying to evaluate different workout apps.
 
 
 Looking into the following apps:
-- MuscleBooster
+- [MuscleBooster] (http://musclebooster.fitness/)
 - BodyFast
 - SHRED
-- Fitbod
-- FitnessAi
+- [Fitbod] (https://www.fitbod.me/)
+- [FitnessAi] (https://www.getfitnessai.com/)
 - BodBot
 - AsanaRebel
 - Volt
+[Jekyll Now repository](https://github.com/barryclark/jekyll-now)
 
 What I want to look into and how do I am scouting the apps?
 - signing up

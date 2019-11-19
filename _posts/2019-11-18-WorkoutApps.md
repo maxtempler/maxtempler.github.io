@@ -7,11 +7,11 @@ Here I am trying to evaluate different workout apps.
 
 
 Looking into the following apps:
-- [MuscleBooster] (http://musclebooster.fitness/)
+- [MuscleBooster](http://musclebooster.fitness/)
 - BodyFast
 - SHRED
-- [Fitbod] (https://www.fitbod.me/)
-- [FitnessAi] (https://www.getfitnessai.com/)
+- [Fitbod](https://www.fitbod.me/)
+- [FitnessAi](https://www.getfitnessai.com/)
 - BodBot
 - AsanaRebel
 - Volt
